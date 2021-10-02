@@ -1,1 +1,1 @@
-# Lab-2 uppgiften finns i filen Lab 2 for real
+# Lab-2 uppgiften finns i filen Lab två for real
